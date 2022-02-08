@@ -20,5 +20,8 @@
             "Modules\\Blog\\": ""
         }
     },
-    "type": "laravel-module"
+    "type": "laravel-module",
+    "require": {
+        "spatie/laravel-sitemap": "dev-master"
+    }
 }
