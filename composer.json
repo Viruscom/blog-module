@@ -20,8 +20,5 @@
             "Modules\\Blog\\": ""
         }
     },
-    "type": "laravel-module",
-    "require": {
-        "spatie/laravel-sitemap": "* --update-with-dependencies"
-    }
+    "type": "laravel-module"
 }
