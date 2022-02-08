@@ -9,5 +9,7 @@
     ],
     "aliases": {},
     "files": [],
-    "requires": []
+    "requires": [
+        "spatie/laravel-sitemap"
+    ]
 }
