@@ -22,6 +22,6 @@
     },
     "type": "laravel-module",
     "require": {
-        "spatie/laravel-sitemap": "dev-main"
+        "spatie/laravel-sitemap": "6.0.5"
     }
 }
