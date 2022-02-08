@@ -22,6 +22,6 @@
     },
     "type": "laravel-module",
     "require": {
-        "spatie/laravel-sitemap": "dev-master"
+        "spatie/laravel-sitemap": "dev-main"
     }
 }
