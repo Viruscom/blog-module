@@ -22,6 +22,6 @@
     },
     "type": "laravel-module",
     "require": {
-        "spatie/laravel-sitemap": "5.*"
+        "spatie/laravel-sitemap": "5.* -W"
     }
 }
